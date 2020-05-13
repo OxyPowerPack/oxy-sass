@@ -1,0 +1,15 @@
+// Variables
+@import "utility/variables";
+
+body{
+
+  .super-heading{
+    color: $main-color;
+  }
+
+  // Pages - use the page/post slug
+  @import "pages/home";
+
+  @import "utility/editor";
+
+}

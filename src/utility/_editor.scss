@@ -1,0 +1,6 @@
+&.oxygen-builder-body {
+    // Styles applied only inside the Oxygen Builder editor
+}
+&:not( .oxygen-builder-body ) {
+    // Styles applied only in frontend (not inside the Oxygen Builder editor)
+}

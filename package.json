@@ -1,0 +1,28 @@
+{
+	"name": "oxygen-sass",
+	"version": "1.0.0",
+	"description": "Gulpfile setup for SCSS compiling and uploading to Oxygen Builder with OxyPowerPack",
+	"author": "Emmanuel Laborin <laborin@gmail.com> (https://laborin.com.mx)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Alecaddd/gulp-es6"
+	},
+	"keywords": [
+		"gulp",
+		"scss",
+		"oxygen builder"
+	],
+	"devDependencies": {
+		"gulp": "^4.0.0",
+		"gulp-autoprefixer": "^6.0.0",
+		"gulp-rename": "^1.2.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.1",
+		"gulp-uglify": "^3.0.0",
+		"gulp-uglifycss": "^1.0.9"
+	},
+	"license": "GPL-3.0",
+	"dependencies": {
+		"form-urlencoded": "^4.1.3"
+	}
+}
